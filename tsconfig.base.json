@@ -15,7 +15,10 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "paths": {}
+    "paths": {
+      "@full-stack-nx/core": ["libs/core/src/index.ts"],
+      "@full-stack-nx/dal": ["libs/dal/src/index.ts"]
+    }
   },
   "exclude": ["node_modules", "tmp"]
 }

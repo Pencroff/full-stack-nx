@@ -29,6 +29,15 @@
     "ui-e2e": {
       "tags": [],
       "implicitDependencies": ["ui"]
+    },
+    "api": {
+      "tags": []
+    },
+    "core": {
+      "tags": []
+    },
+    "dal": {
+      "tags": []
     }
   }
 }
